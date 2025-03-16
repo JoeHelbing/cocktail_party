@@ -5,7 +5,7 @@ A complete inventory of my home bar collection, organized by spirit and mixer ty
 ## Spirits Collection
 
 ### Image 1: Tequilas and Rums
-<img src="/image/Image1.jpg" alt="Base Spirits" style="max-width: 100%; height: auto;">
+<img src="image/Image1.jpg" alt="Base Spirits" style="max-width: 100%; height: auto;">
 
 1. **Smokey Something** - It's an agave spirit of some kind
 2. **Casa Noble** - Tequila Reposado
@@ -18,7 +18,7 @@ A complete inventory of my home bar collection, organized by spirit and mixer ty
 9. **Courvoisier VS Cognac** - A classic cognac with fruity notes and mild oak influence.
 
 ### Image 6: Gins and Whiskies
-<img src="/image/Image6.jpg" alt="Gins and Whiskies" style="max-width: 100%; height: auto;">
+<img src="image/Image6.jpg" alt="Gins and Whiskies" style="max-width: 100%; height: auto;">
 
 1. **Stray Dog Wild Gin** - A small-batch Greek gin with foraged Mediterranean botanicals.
 2. **Bombay Sapphire** - A classic London Dry Gin with a balanced blend of 10 botanicals.
@@ -30,7 +30,7 @@ A complete inventory of my home bar collection, organized by spirit and mixer ty
 8. **Drambuie** - A Scotch whisky liqueur flavored with honey, herbs and spices.
 
 ### Image 2: Liqueurs and Amari
-<img src="/image/Image2.jpg" alt="Liqueurs and Amari" style="max-width: 100%; height: auto;">
+<img src="image/Image2.jpg" alt="Liqueurs and Amari" style="max-width: 100%; height: auto;">
 
 1. **Le Grand Chartruese** - Amazing, mostly used like a bitter. *LOW*
 2. **Green Chartreuse** - A complex herbal liqueur made by French monks with a secret recipe of 130 herbs. *LOW*
@@ -45,7 +45,7 @@ A complete inventory of my home bar collection, organized by spirit and mixer ty
 11. **Crème de Violette** - A floral violet liqueur essential for Aviation cocktails.
 
 ### Image 3: Vermouths and Fortified Wines
-<img src="/image/Image3.jpg" alt="Vermouths and Fortified Wines" style="max-width: 100%; height: auto;">
+<img src="image/Image3.jpg" alt="Vermouths and Fortified Wines" style="max-width: 100%; height: auto;">
 
 1. **Martini & Rossi Extra Dry** - A classic dry vermouth with herbal notes and a crisp finish.
 2. **Antica Formula** - A premium sweet vermouth with complex vanilla and herbal notes.
@@ -55,7 +55,7 @@ A complete inventory of my home bar collection, organized by spirit and mixer ty
 6. **Chaucer's Mead** - A traditional honey wine with floral sweetness.
 
 ### Image 4: Bitters Collection
-<img src="/image/Image4.jpg" alt="Bitters Collection" style="max-width: 100%; height: auto;">
+<img src="image/Image4.jpg" alt="Bitters Collection" style="max-width: 100%; height: auto;">
 
 1. **Bittercube (Various)** - Craft bitters in flavors like Cherry Bark Vanilla, Trinity, Root Beer, Blackstrap, and Bolivar.
 2. **Peychaud's Aromatic Cocktail Bitters** - A classic New Orleans bitter essential for Sazeracs.
@@ -68,7 +68,7 @@ A complete inventory of my home bar collection, organized by spirit and mixer ty
 9. **Angostura Aromatic Bitters** - The essential aromatic bitters found in countless classic cocktails.
 
 ### Image 5: European Spirits and Liqueurs
-<img src="/image/Image5.jpg" alt="European Spirits and Liqueurs" style="max-width: 100%; height: auto;">
+<img src="image/Image5.jpg" alt="European Spirits and Liqueurs" style="max-width: 100%; height: auto;">
 
 1. **Helbing Aquavit** - German aquavit, bitter, good. *LOW*
 2. **Helbing Kümmel** - A German caraway seed liqueur with notes of cumin and fennel. *LOW*
@@ -85,7 +85,7 @@ A complete inventory of my home bar collection, organized by spirit and mixer ty
 13. **Kahlúa** - A coffee liqueur from Mexico used in White Russians and Espresso Martinis. *LOW*
 
 ### Image 7: Mixers and Syrups
-<img src="/image/Image7.jpg" alt="Mixers and Syrups" style="max-width: 100%; height: auto;">
+<img src="image/Image7.jpg" alt="Mixers and Syrups" style="max-width: 100%; height: auto;">
 
 1. **Luxardo Maraschino Cherries** - Premium cocktail cherries that are the gold standard for garnishing.
 2. **Rose's Grenadine** - A pomegranate-flavored syrup for adding sweetness and color to cocktails.
@@ -95,14 +95,14 @@ A complete inventory of my home bar collection, organized by spirit and mixer ty
 6. **Stirrings Simple Syrup** - A ready-made bar syrup for sweetening cocktails.
 
 ### Image 8: Flavored Spirits and Liqueurs
-<img src="/image/Image8.jpg" alt="Flavored Spirits and Liqueurs" style="max-width: 100%; height: auto;">
+<img src="image/Image8.jpg" alt="Flavored Spirits and Liqueurs" style="max-width: 100%; height: auto;">
 
 1. **Fireball Cinnamon Whisky** - A popular cinnamon-flavored whisky with a spicy-sweet kick.
 2. **Jeppson's Malört** - A notorious Chicago wormwood liqueur known for its challenging bitter flavor.
 3. **Curaçao Liqueur** - A blue citrus liqueur made from the dried peels of the laraha fruit.
 
 ### Image 9: Italian and Specialty Liqueurs
-<img src="/image/Image9.jpg" alt="Italian and Specialty Liqueurs" style="max-width: 100%; height: auto;">
+<img src="image/Image9.jpg" alt="Italian and Specialty Liqueurs" style="max-width: 100%; height: auto;">
 
 1. **Cherry Orchard Maraschino** - A maraschino liqueur with authentic cherry flavor.
 2. **Tempus Fugit Crème de Cacao** - A premium chocolate liqueur with natural vanilla notes.
